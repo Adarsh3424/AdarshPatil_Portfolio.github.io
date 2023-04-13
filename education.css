@@ -1,0 +1,31 @@
+.education {
+    text-align: center;
+    padding-left: 210px;
+    padding-top: 50px;
+    background-color: #DFE9EB;
+}
+
+  .title{
+    font-size:35px;
+}
+.education-info{
+  margin-right: 50px;
+  margin-left: 300px;
+  margin-top:70px;
+  line-height: 30px;
+  background-color: #eeecec;
+  box-shadow:  3px 3px #bbb3b3;
+  padding-left: 40px;
+  padding-top: 30px;
+  
+}
+.location{
+  font-size: 15px;
+}
+.degree{
+  font-size: 20px;
+}
+ul li {
+  padding-left: 2px;
+  list-style-type: disc;
+}
